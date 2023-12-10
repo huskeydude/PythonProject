@@ -1,5 +1,5 @@
 # PythonProject
-Project for Pythin
+Project for Python - Cryptography Module
 
 Prerequisites 
 Install the Cryptography module
